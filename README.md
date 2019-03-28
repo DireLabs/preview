@@ -1,5 +1,7 @@
 # gatsby-starter-deck
 
+> Created with https://github.com/fabe/gatsby-starter-deck.
+
 [![dependencies](https://img.shields.io/david/fabe/gatsby-starter-deck.svg)](./package.json)
 [![deploys by netlify](https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg)](https://www.netlify.com)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -57,5 +59,6 @@ Examples:
 
 ## Authors
 
+- Tim Walsh ([timimsms](https://ti.mims.ms))
 - Fabian Schultz ([@fschultz\_](https://twitter.com/fschultz_))
 - Frank Murphy ([AnIrishDuck](https://github.com/AnIrishDuck))
