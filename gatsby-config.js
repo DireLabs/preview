@@ -1,5 +1,3 @@
-
-
 module.exports = {
   siteMetadata: {
     name: `DireLabs`,

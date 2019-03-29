@@ -5,7 +5,7 @@ ghpages.publish(
   'public',
   {
     branch: 'master',
-    repo: 'https://github.com/DireLabs/preview.git',
+    repo: 'https://github.com/direlabs/preview.github.io.git',
   },
   () => {
     console.log('Deploy Complete!')
